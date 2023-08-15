@@ -1,0 +1,35 @@
+/* botao obrigado */
+.btnObrigado{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: #143464;
+    flex-direction: column;
+  }
+  .text{
+    font-size: 45px;
+    color: #f5f5f5;
+    margin-bottom: 30px;
+  }
+  .paragrafo{
+    color: #f5f5f5;
+    margin-bottom: 50px;
+  
+  }
+  .butaum{
+    padding: 15px 50px;
+    background: #f5f5f5;
+    text-decoration: none;
+    color: #143464;
+    font-size: 18px;
+    transition: all 0.5;
+    flex-direction: column;
+  }
+  
+  .butaum:hover{
+    border-radius: 16px;
+  
+  }
+  
+  /* botao obrigado */
